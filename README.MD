@@ -1,5 +1,7 @@
 # Download Gists in Ruby
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ecb85567294485f91f071d70cc435fa)](https://app.codacy.com/gh/PartTimeLegend/gist_list_ruby?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/gist_list_ruby&utm_campaign=Badge_Grade)
+
 ## Tested Tool Builds
 
 | Tool | Version | Source|
