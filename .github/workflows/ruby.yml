@@ -14,7 +14,7 @@ on:
     branches: [ master ]
 
 jobs:
-  test:
+  run:
 
     runs-on: ubuntu-latest
     strategy:
@@ -32,4 +32,4 @@ jobs:
         ruby-version: ${{ matrix.ruby-version }}
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Run 
-      run: .\getGists.rb PartTimeLegend
+      run: ruby getGists.rb PartTimeLegend
