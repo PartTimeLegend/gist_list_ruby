@@ -6,8 +6,8 @@
 
 | Tool | Version | Source|
 | ----------- | ----------- | ----------- |
-| Ruby | 3.0.0 | https://www.ruby-lang.org/ |
-| Bundler | 2.2.10 | https://bundler.io/ |
+| Ruby | 3.0.1 & 2.7.3 | https://www.ruby-lang.org/ |
+| Bundler | 2.2.17 | https://bundler.io/ |
 | Json | 2.5.1 | https://rubygems.org/gems/json/ |
 | open-uri | 2.0.0 | Bundled with Ruby |
 | FileUtils | 1.5.0 | https://rubygems.org/gems/fileutils |
