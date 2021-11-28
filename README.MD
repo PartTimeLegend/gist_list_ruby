@@ -10,7 +10,7 @@
 | Bundler | 2.2.17 | https://bundler.io/ |
 | Json | 2.6.1 | https://rubygems.org/gems/json/ |
 | open-uri | 2.0.0 | Bundled with Ruby |
-| FileUtils | 1.5.0 | https://rubygems.org/gems/fileutils |
+| FileUtils | 1.6.0 | https://rubygems.org/gems/fileutils |
 
 ## Usage
 ### bundler
