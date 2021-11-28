@@ -6,7 +6,7 @@
 
 | Tool | Version | Source|
 | ----------- | ----------- | ----------- |
-| Ruby | 3.0.1 & 2.7.3 | https://www.ruby-lang.org/ |
+| Ruby | 3.0.3 | https://www.ruby-lang.org/ |
 | Bundler | 2.2.17 | https://bundler.io/ |
 | Json | 2.5.1 | https://rubygems.org/gems/json/ |
 | open-uri | 2.0.0 | Bundled with Ruby |
